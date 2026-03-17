@@ -1,0 +1,7 @@
+iris-dataset-eda
+│
+├── iris_analysis.ipynb
+└── README.md
+
+iris_analysis.ipynb → Notebook containing the complete analysis
+README.md → Project description
