@@ -37,8 +37,7 @@ Dataset Features
 📈 Analysis Steps
 
 1️⃣ Data Loading
-The dataset is loaded using Pandas or directly through Seaborn.
-
+The dataset is loaded directly through Seaborn.
 2️⃣ Data Inspection
 Basic dataset exploration includes:
 1) Checking dataset shape
@@ -46,7 +45,6 @@ Basic dataset exploration includes:
 3) Displaying the first few rows
 4) Understanding data types
 5) Generating statistical summaries
-   
 3️⃣ Data Visualization
 Several visualizations are used:
 1) Scatter Plot
